@@ -10,6 +10,8 @@ Windows and Internet Explorer can save Internet addresses to URL files. However,
 
 HTMtied is so easy to use that it doesn't even need a user interface: if everything goes well, the famous "Tada" sound is played. On failure, an error sound is played. HTMtied can also be downloaded and run directly, without installation.
 
+![HTMtied Screenshot](Assets/Repo/htmtied-windows-readme-screenshot.png)
+
 ## Reviews
 
 #### [Freewaregenius.com](http://www.freewaregenius.com/create-internet-bookmarks-as-browser-independent-files-on-your-desktop-with-htmtied/)
