@@ -1,0 +1,23 @@
+------------------------------------------------------------------
+HTMtied Software License Agreement
+------------------------------------------------------------------
+
+COPYRIGHT:
+
+HTMtied is Copyright (C) 2011-2015 Aurelitec (www.aurelitec.com). All Rights Reserved. HTMtied is protected by copyright law and international treaties.
+
+SOFTWARE LICENSE RIGHTS:
+
+HTMtied is provided as freeware. Freeware products are provided free of charge. Freeware software may be used as many times as you like, for as long as you like. You may copy and distribute copies of this program provided that you do not alter the software, user licence or installer in any way and keep this copyright notice and disclaimer of warranty intact. You must not charge money or fees for the software product to anyone except to cover distribution costs. The copyright holder reserves the right to reclassify this software as a non-freeware product at a later date. Doing so will not modify the license agreement of previously distributed executables.
+
+DISCLAIMER OF WARRANTIES:
+
+This program is provided "as is" without warranties of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction. In no event will any copyright holder be liable to you for damages, including any general, special, incidental or consequential damages arising out of the use or inability to use the program (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of the program to operate with any other programs).
+
+INTELLECTUAL PROPERTY RIGHTS
+
+HTMtied is intellectual property of Aurelitec and is protected by law. You acknowledge that all intellectual property rights in the Product anywhere in the world belong to Aurelitec, that rights in the Product are licensed and not sold to you, and that you have no rights in, or to, the Product other than the right to use it in accordance with the terms of this Software License Agreement.
+
+AGREEMENT:
+
+By using the software product you are automatically agreeing to and show that you have read and understood the terms and conditions contained within this Software License Agreement. This Software License Agreement is then effective while you use and continue to make use of the software product. If you do not agree with this Software License Agreement you must not use the software product - this Software License Agreement will then not apply to you. This Software License Agreement is subject to change without notice.
